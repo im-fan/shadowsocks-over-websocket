@@ -29,5 +29,9 @@
     "shadowsocks": "^1.5.3",
     "throng": "^4.0.0",
     "ws": "^2.2.3"
+  },
+  "engines": {
+    "node": "16.x",
+    "npm": "6.x"
   }
 }
